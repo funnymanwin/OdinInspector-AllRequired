@@ -1,4 +1,4 @@
-# OdinInspector-RequiredFields
+# RequiredFields | Odin Inspector
 Addon for Odin Inspector for Unity. Makes all Null fields red by default.
 based on the outdated [AllRequiredValidator by Oxysoft](https://gist.github.com/oxysoft/b790dba3125b3ae36535f52e4469e65d), which i just finished to make it work with newest Odin versions 3.3+.
 
